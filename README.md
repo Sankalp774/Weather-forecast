@@ -1,9 +1,30 @@
-# Weather Forecast Teller (HTML learning project)
+# Weather Forecast Teller
 
-Early static/web experiment for weather UI (`weather forecast teller/`).
+> **Academic stage:** **1st year** (CSE) · **Created:** September 2023  
+> **Learning focus:** HTML, CSS, JavaScript fundamentals · client-side UI · consuming a weather/forecast API · DOM updates
+
+## About
+
+My **first public GitHub project** — a simple weather forecast website built while learning front-end web development in first year.
+
+## What I learned
+
+| Topic | How this project taught it |
+|-------|----------------------------|
+| HTML structure | Page layout for location + forecast display |
+| CSS styling | Basic visual design for a weather UI |
+| JavaScript | Fetching data and updating the page |
+| APIs (intro) | Calling an external weather/forecast service |
+| GitHub basics | Publishing a first repo |
 
 ## Status
 
-**Learning archive.** Not a production weather product.
+**Learning archive / foundation project.** Kept to show growth from first-year web basics → later Applied AI work.
 
-Primary portfolio: [My-Portfolio](https://sankalp774.github.io/My-Portfolio/) and Applied AI repos on GitHub.
+## Run
+
+Open `weather forecast teller/index.html` in a browser (or serve the folder with any static server).
+
+## Later journey
+
+This sits at the start of my path toward Applied AI (NLP, LLM apps, RefactorAI). See [github.com/Sankalp774](https://github.com/Sankalp774).
