@@ -1,7 +1,7 @@
 # Weather Forecast Teller
 
-> **Academic stage:** **1st year** (CSE) · **Created:** September 2023  
-> **Learning focus:** HTML, CSS, JavaScript fundamentals · client-side UI · consuming a weather/forecast API · DOM updates
+> **Created:** (2023-09-10)  
+> **Latest update:** (2026-07-22) — 1st-year learning README + academic stage labels
 
 ## About
 
